@@ -7,7 +7,7 @@ Support site and privacy policy for **VertiCut**, published with GitHub Pages at
 |---|---|
 | Support (ja / en) | `/` · `/index-en.html` |
 | Privacy Policy (ja / en) | `/privacy.html` · `/privacy-en.html` |
-| App Review demo clip | `/demo/verticut-demo.mp4` — **not yet placed**; `demo/` is reserved for it (added once the generated stills exist) |
+| App Review demo clip | `/demo/verticut-demo.mp4` — 1920×1080, 15 s, H.264, no audio. Made from a generated still (not a real person) with VertiCut's `tools/still-to-clip.sh` |
 
 There is no terms page: VertiCut uses Apple's standard EULA (Phase 7 D10).
 
